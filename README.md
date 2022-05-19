@@ -4,11 +4,19 @@ The proliferation of social media enables people to express their opinions widel
 ## About Dataset:
 The data set contains the training set, which has approximately 1,59,571 samples and the test set which contains nearly 1,53,000 samples. All the data samples contain 8 fields which includes ‘Id’, ‘Comments’, ‘Malignant’, ‘Highly malignant’, ‘Rude’, ‘Threat’, ‘Abuse’ and ‘Loathe’. The label can be either 0 or 1, where 0 denotes a NO while 1 denotes a YES. There are various comments which have multiple labels. The first attribute is a unique ID associated with each comment.
 ### The data set includes:  
-Malignant: It is the Label column, which includes values 0 and 1, denoting if the comment is malignant or not. 
-Highly Malignant: It denotes comments that are highly malignant and hurtful. 
-Rude: It denotes comments that are very rude and offensive. 
-Threat: It contains indication of the comments that are giving any threat to someone. 
-Abuse: It is for comments that are abusive in nature. 
-Loathe: It describes the comments which are hateful and loathing in nature. 
-ID: It includes unique Ids associated with each comment text given. 
-Comment text: This column contains the comments extracted from various social media platforms.
+#### Malignant:
+It is the Label column, which includes values 0 and 1, denoting if the comment is malignant or not. 
+#### Highly Malignant:
+It denotes comments that are highly malignant and hurtful. 
+#### Rude:
+It denotes comments that are very rude and offensive. 
+#### Threat:
+It contains indication of the comments that are giving any threat to someone. 
+#### Abuse: 
+It is for comments that are abusive in nature. 
+#### Loathe: 
+It describes the comments which are hateful and loathing in nature. 
+#### ID: 
+It includes unique Ids associated with each comment text given. 
+#### Comment text: 
+This column contains the comments extracted from various social media platforms.
